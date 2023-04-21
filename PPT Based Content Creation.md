@@ -34,21 +34,3 @@
 
 **Training video for cutting:** [https://vimeo.com/582409276](https://vimeo.com/582409276)
 
-### 4. Creating Transcript
-
-#### Transcript in Word
-
-1.  Download the required video from the Vimeo URL column
-2.  Open ONLINE MS WORD in Chrome and open a blank document to enable the dictate option (this option is not found in OFFLINE MS WORD)
-3.  Click the microphone symbol and select "Transcribe"
-4.  Upload the required video
-5.  After uploading, select the document and choose the "Just Text" option
-6.  Copy and paste the transcript into the original transcript column of the recording instruction sheet in the required component tracker
-
-#### Transcript in Slack
-
-1.  Upload the audio file to Slack
-2.  Wait for the transcription to complete (this may take some time)![](https://i.gyazo.com/68b1ea8293670dd4f3cf78c1bfd0b23c.png)
-3.  Add a description to the transcript, if desired
-4.  Copy and paste the transcript into the original transcript column of the recording instruction sheet in the required component,
-![](https://i.gyazo.com/12dba8957069105a0412b54fd0f11c92.png)
