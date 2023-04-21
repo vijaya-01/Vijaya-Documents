@@ -1,8 +1,5 @@
 # PPT Based Content Creation
 
-
-## Video Creation Process
-
 ### 1. Screenshot
 
 1.  Watch the source video and take screenshots when objects change (e.g. appear or disappear)
