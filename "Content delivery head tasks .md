@@ -13,7 +13,7 @@ Daily Task Posting
 	 The message should include:
 	    -   "Good morning Team"
 	    -   A list of all coordinators, including their names (e.g. @navyasree)
-	    -   A reminder to coordinators to check their team		members and sprints for the day, and to start working on them
+	    -   A reminder to coordinators to check their team members and sprints for the day, and to start working on them
 	    -   An instruction to engage team members 
 	        from sharp 10 AM.
 -   9:15AM post the team members in individual channels  
@@ -41,15 +41,21 @@ Daily Task Posting
 format:  
 (sprint - as per estimations - human hours - present working Task)  
 example: sprint - as per estimations - human hours - present working Task
-`1 pr45sp01 - image insertion - 17 hours - image insertion
- 2 pr45sp03 - cutting - 5 hours - cutting 
- 3 pr45sp04 - bg editing - 15 hours - cutting`
+
+	1.pr45sp01 - image insertion - 17 hours - image insertion
+
+	2.pr45sp03 - cutting - 5 hours - cutting 
+	
+ 	3.pr45sp04 - bg editing - 15 hours - cutting
 	
 12:00PM post verify the approved-sprints-list and identify all the updates and post the changes that need to be done in cdpm channel  
 format:  
-`verify the approved-sprints-list and identify all the updates. post the changes that need to be done`  
+`verify the approved-sprints-list and identify all the updates. post the changes that need to be done` 
+
 `pr40sp10` - completed  
+
 `pr41sp04` - completed
+
 https://gyazo.com/360d9145bf4c7d93b464221989dd6d05
 
 -   12:30PM post the incoming coordinator and team details in individual sprints channels  
@@ -93,7 +99,9 @@ https://gyazo.com/360d9145bf4c7d93b464221989dd6d05
     example:  
     `sprint - as per estimations - human hours - present working Task`
     
-    `1pr45sp01 - image insertion - 17 hours - image insertion 2pr45sp03 - cutting - 5 hours - cutting 3pr45sp04 - bg editing - 15 hours - cutting`
+    	`1.pr45sp01 - image insertion - 17 hours - image insertion    
+   	2.pr45sp03 - cutting - 5 hours - cutting 	 
+	3.pr45sp04 - bg editing - 15 hours - cutting`
     
 -   2:00PM Give target for tasks each sprints  
     format:  
@@ -103,9 +111,10 @@ https://gyazo.com/360d9145bf4c7d93b464221989dd6d05
 -   2:15PM update daily-sprint-updates sheet and copy into projectwise-sprint-updates and change the colour in daily-sprint-updates sheet
     
 -   2:30PM ask the 3PM-leaving coordinators who don't have handshake meet to "post sprint update" in content delivery channel  
-    coordinator @navyasree At 3PM please update the sub-sheet daily-sprint-update from below sheet and please post gyazo url https://docs.google.com/spreadsheets/d/1nsmzZrNEqnyOIS6Vs1l6y54UjaV3h9ag56Gw-ndzpMc/edit?pli=1#gid=1066426619
+    coordinator @navyasree At 3PM please update the sub-sheet daily-sprint-update from below sheet and please post gyazo url 	https://docs.google.com/spreadsheets/d/1nsmzZrNEqnyOIS6Vs1l6y54UjaV3h9ag56Gw-ndzpMc/edit?pli=1#gid=1066426619
 -   2:30PM ask the 3PM-leaving coordinators who don't have handshake meet to "start EOD SOP - End of Day Standard Operating Procedure" in content delivery channel  
-    coordinator [@navyasree b](https://ncodeit.slack.com/team/U02DD9B9V7X "https://ncodeit.slack.com/team/U02DD9B9V7X") please initiate the EOD ( End Of Day) and SOP process -
+    coordinator [@navyasree b](https://ncodeit.slack.com/team/U02DD9B9V7X "https://ncodeit.slack.com/team/U02DD9B9V7X") please initiate the EOD ( End Of Day)
+    and SOP process -
     
     -   Prepare the comparison sheet of how you received the sprint and the current status of sprint
         
@@ -136,11 +145,13 @@ https://gyazo.com/360d9145bf4c7d93b464221989dd6d05
     (sprint - as per estimations - human hours - present working Task)  
     example: `
     sprint - as per estimations - human hours - present working Task`
+    
 
-  1	pr45sp01 - image insertion - 17 hours -
-	image insertion 
-  2	pr45sp03 - cutting - 5 hours - cutting
-  3	pr45sp04 - bg editing - 15 hours - cutting
+	`1.pr45sp01 - image insertion - 17 hours -image insertion
+	
+	2.pr45sp03 - cutting - 5 hours - cutting  
+	
+	3.pr45sp04 - bg editing - 15 hours - cutting`
 
 -   4:00PM prepare daily teams sheet
     
@@ -150,11 +161,29 @@ https://gyazo.com/360d9145bf4c7d93b464221989dd6d05
     
 -   5:00PM post list of all available/on-leave resources in cdpm channel  
     `19/10/2021 - list of all available/on-leave resources`  
-      
-    
-    `1Morning shift members 2Navya 3Aswath 4Niktha 5Keerthi 6Vinitha 7Sahithi 8Paramita 9Sandya 10 11Afternoon shift 12Pujitha 13Anusha 14Kusuma 15Varshitha 16Dinisha 17 18solo sprint:-jeevaprakash`
-    
--   5:00PM ask evening shift coordinators to update 6PM daily-sprint-updates ghseet and post gyazo url in content delivery channel  
+          
+   Sure, here's a list with bullet points and numbers:
+   
+   	Morning shift:
+
+	1.Navya
+	2.Aswath
+	3.Niktha
+	4.Keerthi
+	5.Vinitha
+	6.Sahithi
+	7.Paramita
+	8.Sandya
+	
+	Afternoon shift:
+
+	9.Pujitha
+	10.Anusha
+	11.Kusuma
+	12.Varshitha
+	13.Dinisha
+	
+   -   5:00PM ask evening shift coordinators to update 6PM daily-sprint-updates ghseet and post gyazo url in content delivery channel  
     coordinator [@Anusha chaluvadi](https://ncodeit.slack.com/team/U029Q3W0U6R "https://ncodeit.slack.com/team/U029Q3W0U6R") At 6PM please update the sub-sheet `daily-sprint-update` from below sheet and please post gyazo url [daily sprint update](https://docs.google.com/spreadsheets/d/1nsmzZrNEqnyOIS6Vs1l6y54UjaV3h9ag56Gw-ndzpMc/edit?pli=1#gid=1066426619 "https://docs.google.com/spreadsheets/d/1nsmzZrNEqnyOIS6Vs1l6y54UjaV3h9ag56Gw-ndzpMc/edit?pli=1#gid=1066426619")
     
 -   5:00PM ask the 6PM-leaving coordinators to "start EOD SOP - End of Day Standard Operating Procedure" in content delivery channel  
@@ -197,7 +226,13 @@ https://gyazo.com/360d9145bf4c7d93b464221989dd6d05
 -   6:50PM post the sprints status update in cdpm channel  
     `sprint - total estimation hour - as per estimations - human hours - Drift%`
     
-    `1pr40sp10 - 49 - 17+2 - 20+5 - 32% 2pr41sp04 - 38 - 31+2 - 41+5 - 40% 3pr41sp05 - 40 - 27+2 - 46+5 - 76% 4pr42sp01 - 62 - 53+2 - 36+5 - -26%`
+   	 1.pr40sp10 - 49 - 17+2 - 20+5 - 32%
+   	 
+   	 2.pr41sp04 - 38 - 31+2 - 41+5 - 40% 
+   	 
+   	 3.pr41sp05 - 40 - 27+2 - 46+5 - 76%
+
+   	 4.pr42sp01 - 62 - 53+2 - 36+5 - -26%`
     
 -   7:00PM post EODSOP in cdpm channel  
    here are the EOD tasks for the head of content-delivery:
@@ -214,10 +249,12 @@ https://gyazo.com/360d9145bf4c7d93b464221989dd6d05
 
 **Generic tasks:**
 
--   check the validity of hourly updates in content-delivery channel  
+-   check the validity of hourly updates in content-delivery channel
+    
     `Status update for pr45sp03 of c2_large1`
     
-    `1Sprint-as per estimation - deadline - present working on - difference human-hours - difference in earth-hours 2pr45sp03 - cutting for pr45sp03-06 - 05:14pm - cutting for pr45sp03-04 - 0hours - 0hours`
+    	1.Sprint-as per estimation - deadline - present working on - difference human-hours - difference in earth-hours
+    	2.pr45sp03 - cutting for pr45sp03-06 - 05:14pm - cutting for pr45sp03-04 - 0hours - 0hours`
     
 -   Monitor all the channels for messages and activity
     
