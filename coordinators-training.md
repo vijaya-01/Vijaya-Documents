@@ -28,8 +28,8 @@ __ **DOCUMENT FOR COORDINATOR TRAINING _**_
 Step 1
 -   Download source videos from other websites.
 -   Use Online Video Cutter to divide the sprints based on 1 hour content.
--   Change the video title to <projectname><sprintname>.
--   Upload the divided videos to Vimeo - Video Experience Platform
+-   Change the video title to (projectname)(sprintname).
+-   Upload the divided videos to Vimeo - Video Experience Platform http://vimeo.com/
 
 Step 2 
   
