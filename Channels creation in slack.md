@@ -10,4 +10,4 @@
 
 ➔ Add a description for the channel, if desired, in the "Channel Purpose" field.
 
-➔ Click on the ✅ icon "Create Channel" button to create your new channel.
+➔ Click on the "Create Channel" button to create your new channel.
