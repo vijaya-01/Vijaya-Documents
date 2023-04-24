@@ -45,15 +45,16 @@
 **Here are the guidelines to follow, while inserting text in slides**  
 1.max of 10 words per sentence  
 2.max of 2 sentences in a bullet point.
+
 **How to give onedrive folder access to TC members.**
 Steps for Granting Access to Shared Folder
-10.  Right-click on the folder that we want to share
-11.  Give the email id of the technical consultant
-12.  Select "only people you specify"
-13.  Set up an expiration time of 2 months from the date
-14.  Set up a password (e.g., ncodeit123)
-15.  Share the share-URL with the Technical Consultant
-16.  Ask them to create a free ID on [live.com](http://live.com/) to access this shared folder.
+1.  Right-click on the folder that we want to share
+2.  Give the email id of the technical consultant
+3.  Select "only people you specify"
+4.  Set up an expiration time of 2 months from the date
+5.  Set up a password (e.g., ncodeit123)
+6.  Share the share-URL with the Technical Consultant
+7.  Ask them to create a free ID on [live.com](http://live.com/) to access this shared folder.
 **Note: Don’t share original Animation ppt files to TC directly**
 
 **Laptop/Desktop configuration for video recording**
