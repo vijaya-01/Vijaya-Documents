@@ -43,8 +43,8 @@
 -   Step-by-step instructions to practice the installation process
 -   Solution slides to check progress and compare with the correct results
 **Here are the guidelines to follow, while inserting text in slides**  
-1.max of 10 words per sentence  
-2.max of 2 sentences in a bullet point.
+1. max of 10 words per sentence  
+2. max of 2 sentences in a bullet point.
 
 **How to give onedrive folder access to TC members.**
 Steps for Granting Access to Shared Folder
