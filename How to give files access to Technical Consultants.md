@@ -33,30 +33,43 @@ Quiz slide: This slide should include a quiz related to the topic of the present
 
 **How to give onedrive folder access to TC members.**
 Steps for Granting Access to Shared Folder
-1.  Right-click on the folder that we want to share
-2.  Give the email id of the technical consultant
-3.  Select "only people you specify"
-4.  Set up an expiration time of 2 months from the date
-5.  Set up a password (e.g., ncodeit123)
-6.  Share the share-URL with the Technical Consultant
-7.  Ask them to create a free ID on [live.com](http://live.com/) to access this shared folder.
+➤ Right-click on the folder you want to share and select "Share" or "Share with others" option.
+
+➤ Enter the email ID of the technical consultant in the "Invite people" field.
+
+➤ Select "Only people you specify" to limit access to only the technical consultant.
+
+➤ Set an expiration time of 2 months from the date to automatically revoke access after the specified time.
+
+➤ Set up a password to secure the shared folder. You can use a strong password like "ncodeit123".
+
+➤ Share the share-URL with the Technical Consultant via email or any other communication medium.
+
+➤ Ask the technical consultant to create a free ID on live.com to access the shared folder.
+
+➤ Caution them not to share the original Animation ppt files directly.
 **Note: Don’t share original Animation ppt files to TC directly**
 
 **Laptop/Desktop configuration for video recording**
 
-To work on the Tools the technical-consultant needs to record the videos .  
-check the following things -  
-Laptop/Desktop configuration -  
-CPU Model - RAM size - Hard Disk Type - Hard Disk Size - 
+To work on the Tools the technical-consultant needs to record the videos  
+
+check the following things -
+
+➤ Laptop/Desktop configuration -
+
+➤ CPU Model - RAM size - Hard Disk Type - Hard Disk Size - 
 
 **AceThinker Screen Grabber Pro Installation and Recording**
 
 AceThinker Screen Grabber Pro - A Powerful Tool for Screen Recording and Editing
 
-1.  Download AceThinker Screen Grabber Pro from Screen Grabber Pro - Desktop Recorder with Audio https://www.acethinker.com/desktop-recorder
-2.  Use the license activation key 8F715-CA71L-S99EI-B9D27 to activate the software
+➤  Download AceThinker Screen Grabber Pro from Screen Grabber Pro - Desktop Recorder with Audio https://www.acethinker.com/desktop-recorder
+
+➤  Use the license activation key 8F715-CA71L-S99EI-B9D27 to activate the software
 
 This software can help you with two important things:
 
-1.  Record screen and audio quickly: With just a few clicks, you can record your screen and audio, making it easy to create instructional videos or record important meetings.
-2.  Edit/remove unnecessary parts of the recorded video after the recording is done: This software comes with a powerful editor that allows you to remove any unwanted parts of your recorded video, so you can create a polished final product.
+➤  Record screen and audio quickly: With just a few clicks, you can record your screen and audio, making it easy to create instructional videos or record important meetings.
+
+➤  Edit/remove unnecessary parts of the recorded video after the recording is done: This software comes with a powerful editor that allows you to remove any unwanted parts of your recorded video, so you can create a polished final product.
