@@ -1,47 +1,32 @@
 # How to give files access to Technical Consultants
+
 **Follow the below pattern -for creating PPT structure**
-1.  Title slide: Title: Installation Process of XYZ Software Subtitle: A Comparative Analysis
-    
-2.  Main background color + design: Choose a modern and minimalist design with shades of blue and gray to represent professionalism and stability.
-    
-3.  Bullet Points (on-left) + image: Slide Title: Key Components
-    
 
--   Central Database: stores all data
--   Web Server: handles user requests
--   Application Server: processes business logic
--   Image: An illustration of the architecture diagram
+Title slide: This slide should include the title of the presentation, the date, and the name of the presenter.
 
-4.  2 column comparison slide: Slide Title: Comparison with other installations
+Main background color + design (applies for all slides): This slide should establish the main background color and design that will be used throughout the presentation. It should be consistent with the overall theme of the presentation.
 
--   Faster setup time
--   Easier to use interface
--   Fewer hardware requirements
--   Lower cost
--   Comparison Image: A Venn diagram comparing the features of XYZ software with other software installations.
+Bullet Points (on-left) + image (on-right) – slide (for "what" section): This slide should list the key points of the "what" section of the presentation, with bullet points on the left and an image on the right. The image should be relevant to the topic being discussed.
 
-5.  Title + image slide: Slide Title: Architecture Diagram
+Bullet Points (on-left) + image (on-right) – slide (for "explanation of key components of architecture diagram" section): This slide should list the key components of the architecture diagram, with bullet points on the left and an image on the right. The image should highlight the components being discussed.
 
--   Image: A detailed diagram of the architecture
+Bullet Points (for "steps of setup & explanation of each step" section): This slide should list the steps required to set up the installation, with bullet points for each step. It should also provide a brief explanation of each step.
 
-6.  Trainer Intro slide: Slide Title: Meet the Trainer
+2 column comparison slide (for "how this installation is different/better/bad compared to other installations" section): This slide should compare the installation being discussed with other installations in the same category, highlighting the differences, advantages, and disadvantages.
 
--   Trainer's name, title, and photo
--   Brief introduction of the trainer's background and experience
+Video (for "video of execution of steps" section): This slide should include a video that demonstrates the execution of the steps required to set up the installation. It should be clear and easy to follow.
 
-7.  Thank you slide: Slide Title: Thank You
+Trainer Intro slide: This slide should introduce the trainer, including their name, title, and a brief bio. It can also include a photo of the trainer.
 
--   Image: A thank-you message and a graphic of the XYZ logo
+Thank you slide: This slide should include a thank-you message to the audience, as well as any contact information for the presenter or organization. It can also include a call to action or a reminder of upcoming events.
 
-8.  Quiz: Slide Title: Test Your Knowledge
+Quiz slide: This slide should include a quiz related to the topic of the presentation. It can include multiple-choice or open-ended questions to test the audience's understanding of the material.
 
--   Multiple-choice questions about the installation process and architecture diagram
--   Image: A timer graphic to create a sense of urgency
 
-9.  Exercise and solutions on that type of installation - slide: Slide Title: Hands-On Exercises
 
--   Step-by-step instructions to practice the installation process
--   Solution slides to check progress and compare with the correct results
+
+
+
 **Here are the guidelines to follow, while inserting text in slides**  
 1. max of 10 words per sentence  
 2. max of 2 sentences in a bullet point.
