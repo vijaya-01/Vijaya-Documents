@@ -1,4 +1,4 @@
-# Audio extraction from any Video
+# Audio Extraction from any Video
 
 ### To extract audio from any video, follow these steps:
 
