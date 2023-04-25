@@ -5,7 +5,7 @@
 
 ➔ Step 1 - Create an outline in ChatGPT:  Start by creating a strict prompt for your presentation that includes the titles and content for your slides. Be as clear and concise as possible in your prompts.
 
-➔ Step 2 - Convert the outline to HTML: Convert the outline to HTML
+➔ Step 2 - Convert the outline to HTML:  Once you've created your outline, use the built-in HTML conversion tool to convert your outline to an HTML file.
 
 ➔ Step 3 - Copy and paste the HTML into a text editor: After you've converted your outline to HTML, copy the code and paste it into a plain text editor, such as Notepad This step will ensure that the formatting remains intact.
 
