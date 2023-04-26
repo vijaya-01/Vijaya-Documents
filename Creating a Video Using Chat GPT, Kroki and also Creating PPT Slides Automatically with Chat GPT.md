@@ -25,7 +25,7 @@ By following these steps, you can create a presentation that is engaging, inform
 
 
 
-**The steps to follow for creating PPTs slides through chatGPT:**
+**The steps to follow for creating PPTs slides Automatically through chatGPT:**
 
 Step 1 - Create an outline in ChatGPT, Start by creating a strict prompt for your presentation that includes the titles and content for your slides. Be as clear and concise as possible in your prompts.
 
