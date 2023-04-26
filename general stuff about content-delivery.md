@@ -6,15 +6,13 @@
   1. ===
   2.   @Nikitha Singh,
   3.  please ensure all members post in the required checklist format as we are standardizing it.
-  4. 
-  5.  The checklist format has been standardized and should include five important components:
-  6.  Checks
-  7.  Metrics
-  8.  Component IDs
-  9.  Status of checks
-  10.  Details of metrics
-  11. 
-  12.  Here is a sample checklist format: [https://gyazo.com/daa3c22571f83453e1d4fa326f0e2de8](https://gyazo.com/daa3c22571f83453e1d4fa326f0e2de8)
+  4.  The checklist format has been standardized and should include five important components:
+  5.  Checks
+  6.  Metrics
+  7.  Component IDs
+  8.  Status of checks
+  9.  Details of metrics
+  10.  Here is a sample checklist format: [https://gyazo.com/daa3c22571f83453e1d4fa326f0e2de8](https://gyazo.com/daa3c22571f83453e1d4fa326f0e2de8)
 
 -   Everyday at 1:30 PM, there will be a handshake call involving all team members from both sides.
 -   During the call, the outgoing coordinator will hand over the work to the incoming coordinator.
