@@ -1,5 +1,5 @@
 # Content delivery head tasks
-Daily Task Posting
+## Daily Task Posting
 
 -   A list of tasks should be posted every day.
 -   The posting should be made in the CDPM channel.
@@ -42,11 +42,11 @@ format:
 (sprint - as per estimations - human hours - present working Task)  
 example: sprint - as per estimations - human hours - present working Task
 
-	1.pr45sp01 - image insertion - 17 hours - image insertion
+	1. pr45sp01 - image insertion - 17 hours - image insertion
 
-	2.pr45sp03 - cutting - 5 hours - cutting 
+	2. pr45sp03 - cutting - 5 hours - cutting 
 	
- 	3.pr45sp04 - bg editing - 15 hours - cutting
+ 	3. pr45sp04 - bg editing - 15 hours - cutting
 	
 -   12:00PM post verify the approved-sprints-list and identify all the updates and post the changes that need to be done in cdpm channel  
     format:  
@@ -102,9 +102,9 @@ example: sprint - as per estimations - human hours - present working Task
     example:  
     `sprint - as per estimations - human hours - present working Task`
     
-    	`1.pr45sp01 - image insertion - 17 hours - image insertion    
-   	2.pr45sp03 - cutting - 5 hours - cutting 	 
-	3.pr45sp04 - bg editing - 15 hours - cutting`
+    	`1 .pr45sp01 - image insertion - 17 hours - image insertion    
+   	2 .pr45sp03 - cutting - 5 hours - cutting 	 
+	3 .pr45sp04 - bg editing - 15 hours - cutting`
     
 -   2:00PM Give target for tasks each sprints  
     format:  
