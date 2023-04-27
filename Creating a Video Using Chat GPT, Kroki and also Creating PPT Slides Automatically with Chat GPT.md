@@ -1,6 +1,6 @@
-# How to create Video Using Kroki and ChatGPT and How to create PPT Slides Automatically with ChatGPT
+# Creating a Video with Kroki and ChatGPT and creating PPT Slides Automatically with ChatGPT
 
-## The process of creating a video on a particular topic using Chat GPT and Kroki.io
+## The process of creating a video on a particular topic with Chat GPT and Kroki.io
 
 **Step 1:** Choose Your Topic that you want to create a presentation on. For example, let's say you want to create a presentation on the top ten topics of Java.  
 
