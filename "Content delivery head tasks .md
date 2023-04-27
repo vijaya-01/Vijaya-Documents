@@ -37,7 +37,7 @@ Daily Task Posting
     format:  
     coordinator [@keerthi mudundi](https://ncodeit.slack.com/team/U02BWQWV8CQ "https://ncodeit.slack.com/team/U02BWQWV8CQ") At 1PM please update the sub-sheet daily-sprint-update from below sheet and please post gyazo url  
     [daily sprint update](https://docs.google.com/spreadsheets/d/1nsmzZrNEqnyOIS6Vs1l6y54UjaV3h9ag56Gw-ndzpMc/edit?pli=1#gid=1066426619 "https://docs.google.com/spreadsheets/d/1nsmzZrNEqnyOIS6Vs1l6y54UjaV3h9ag56Gw-ndzpMc/edit?pli=1#gid=1066426619")
-12:00PM post Running sprints status update in cdpm channel  
+-   12:00PM post Running sprints status update in cdpm channel  
 format:  
 (sprint - as per estimations - human hours - present working Task)  
 example: sprint - as per estimations - human hours - present working Task
@@ -48,15 +48,16 @@ example: sprint - as per estimations - human hours - present working Task
 	
  	3.pr45sp04 - bg editing - 15 hours - cutting
 	
-12:00PM post verify the approved-sprints-list and identify all the updates and post the changes that need to be done in cdpm channel  
-format:  
-`verify the approved-sprints-list and identify all the updates. post the changes that need to be done` 
+-   12:00PM post verify the approved-sprints-list and identify all the updates and post the changes that need to be done in cdpm channel  
+    format:  
+    `verify the approved-sprints-list and identify all the updates. post the changes that need to be done` 
 
-`pr40sp10` - completed  
+     `pr40sp10` - completed  
 
-`pr41sp04` - completed
+      `pr41sp04` - completed
 
-https://gyazo.com/360d9145bf4c7d93b464221989dd6d05
+  ![image](https://user-images.githubusercontent.com/131442290/234835704-084a1a3f-59b6-4443-a714-4b4063783444.png)
+
 
 -   12:30PM post the incoming coordinator and team details in individual sprints channels  
     format:  
@@ -81,9 +82,11 @@ https://gyazo.com/360d9145bf4c7d93b464221989dd6d05
     
 -   1:00PM check the details updated by coordinators in daily-sprint-updates gsheet and check the data posted in content delivery channel(Gyazo url, handshake meet url,project tracker update, handshake meet url)  
     Format for running sprint daily-sprint-updates  
-    [https://i.gyazo.com/f7f710194647c9d501058cd4a50ff56a.png](https://i.gyazo.com/f7f710194647c9d501058cd4a50ff56a.png "https://i.gyazo.com/f7f710194647c9d501058cd4a50ff56a.png")  
+   ![image](https://user-images.githubusercontent.com/131442290/234838451-6328bde2-a3c3-442a-acf6-9e32fe6e0d0f.png)
+
     Format for start sprint daily-sprint-updates  
-    [https://gyazo.com/ef0602d7bc6b2489bec1f6ad22a601e1](https://gyazo.com/ef0602d7bc6b2489bec1f6ad22a601e1 "https://gyazo.com/ef0602d7bc6b2489bec1f6ad22a601e1")
+    ![image](https://user-images.githubusercontent.com/131442290/234838545-b163d7bb-4a10-40e4-964a-b545e4a2dcb2.png)
+
 -   1:30PM Ask the coordinators to post the handshake call details in content delivery channel  
     format:  
     coordinator name  after completion of handshake call post the below details  
@@ -133,10 +136,12 @@ https://gyazo.com/360d9145bf4c7d93b464221989dd6d05
     -   Wait for the acknowledgement from the `head of content-delivery` and your own release
         
 -   3:00PM check the details updated by coordinators in daily-sprint-updates gsheet and check the data posted in content delivery channel(Gyazo url, handshake meet url,project tracker update, handshake meet url)  
-    Format for running sprint daily-sprint-updates  
-    [https://i.gyazo.com/f7f710194647c9d501058cd4a50ff56a.png](https://i.gyazo.com/f7f710194647c9d501058cd4a50ff56a.png "https://i.gyazo.com/f7f710194647c9d501058cd4a50ff56a.png")  
+    Format for running sprint daily-sprint-updates 
+    ![image](https://user-images.githubusercontent.com/131442290/234836257-b2fa0720-575c-4762-87a4-0eaf362a2845.png)
+
     Format for start sprint daily-sprint-updates  
-    [![](https://assets2.gyazo.com/favicon.ico)Screenshot by Gyazo](https://gyazo.com/ef0602d7bc6b2489bec1f6ad22a601e1)
+   ![image](https://user-images.githubusercontent.com/131442290/234836165-eca81fd9-d36d-4976-abb4-589913035bad.png)
+
     
 -   3:00PM release morning shift coordinators
     
@@ -157,8 +162,8 @@ https://gyazo.com/360d9145bf4c7d93b464221989dd6d05
     
 -   5:00PM post the daily teams in cdpm  
     [@anil_](https://ncodeit.slack.com/team/U2PP4N0BY "https://ncodeit.slack.com/team/U2PP4N0BY") sir please check team division for 19/10/2021  
-    [![](https://assets2.gyazo.com/favicon.ico)Screenshot by Gyazo](https://gyazo.com/049aa8fa39517d4e93feb265aacdd237)
-    
+   ![image](https://user-images.githubusercontent.com/131442290/234837591-91b7dd6e-5f0c-42bd-aeb9-ca89ba760612.png)
+
 -   5:00PM post list of all available/on-leave resources in cdpm channel  
     `19/10/2021 - list of all available/on-leave resources`  
           
@@ -209,17 +214,18 @@ https://gyazo.com/360d9145bf4c7d93b464221989dd6d05
         
 -   6:00PM check the details updated by coordinators in daily-sprint-updates gsheet and check the data posted in content delivery channel(Gyazo url, handshake meet url,project tracker update, handshake meet url)  
     Format for running sprint daily-sprint-updates  
-    [https://i.gyazo.com/f7f710194647c9d501058cd4a50ff56a.png](https://i.gyazo.com/f7f710194647c9d501058cd4a50ff56a.png "https://i.gyazo.com/f7f710194647c9d501058cd4a50ff56a.png")  
+   ![image](https://user-images.githubusercontent.com/131442290/234837758-f222cdf7-1671-43c3-9e1c-6af269ba7bf6.png)
+![image](https://user-images.githubusercontent.com/131442290/234837880-df053e6f-d2c0-4aef-beb2-984244d6074e.png)
     Format for start sprint daily-sprint-updates  
-    [![](https://assets2.gyazo.com/favicon.ico)Screenshot by Gyazo](https://gyazo.com/ef0602d7bc6b2489bec1f6ad22a601e1)
+    ![image](https://user-images.githubusercontent.com/131442290/234837960-3a0184c0-55b5-42d8-b642-baec4a87048e.png)
     
 -   6:00PM release the evening shift coordinators
     
 -   6:15PM update daily-sprint-updates sheet and copy into projectwise-sprint-updates and change the colour in daily-sprint-updates sheet
     
 -   6:30PM post the daily teams in content-delivery channel  
-    **@channel** please check your 19/10/2021 team members and projects  
-    [![](https://assets2.gyazo.com/favicon.ico)Screenshot by Gyazo](https://gyazo.com/049aa8fa39517d4e93feb265aacdd237)  
+    please check your 19/10/2021 team members and projects  
+    ![Uploading image.png…]()
     Hello Guys please check above team division post ,Likewise All afternoon team members please join at 12:30PM and leave at 5:30 PM  
     and only afternoon coordinators have to join at 1 PM
     
