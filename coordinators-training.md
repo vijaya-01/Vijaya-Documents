@@ -21,7 +21,6 @@
 14.  List out the mistakes and post them on the leaderboard.
 15.  Give a report of the work hours and work performance to the content delivery head at the end of the day.
 
-Note: Some tasks may need further elaboration or explanation depending on the specific project requirements and context.
 
 __ **DOCUMENT FOR COORDINATOR TRAINING _**_
   
