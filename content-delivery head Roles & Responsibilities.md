@@ -1,4 +1,4 @@
-# content-delivery head Roles & Responsibilities
+# Content-delivery head Roles & Responsibilities
 
 **Goals for Managing a Content-Delivery Team:**
 
@@ -10,20 +10,20 @@
 
 • **Setup standardized processes:** Establish clear and standardized procedures for content creation, to ensure that everyone on the team can follow them easily.
 
-Specific Tasks:
+### Specific Tasks:
 
--   8.30 PM - post the resource allocation for tomorrow’s sprints ( morning & afternoon)
+   * 8.30 PM - post the resource allocation for tomorrow’s sprints ( morning & afternoon)
     
--   8.30 PM - post incoming/outgoing coordinators and team members
+   * 8.30 PM - post incoming/outgoing coordinators and team members
     
--   8.30 PM - post the approved list of sprints
+   * 8.30 PM - post the approved list of sprints
     
--   9 AM - ensure all the team members start work
+   * 9 AM - ensure all the team members start work
     
--   Every hour - get the status updates
+   Every hour - get the status updates
     
--   1.00 PM - initiate the handshake process between teams
+   * 1.00 PM - initiate the handshake process between teams
     
--   5.30 PM - initiate EOD SOP
+   * 5.30 PM - initiate EOD SOP
     
--   6.30 PM - send the status updates to higher managemen
+   * 6.30 PM - send the status updates to higher management
