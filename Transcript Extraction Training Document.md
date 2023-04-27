@@ -1,6 +1,6 @@
 # Transcript Extraction Training Document
 
-**TRANSCRIPT EXTRACTION** can be done in 3 methods :
+**TRANSCRIPT EXTRACTION can be done in 3 methods ** :
 
 * Pluralsight.com has a transcript extraction feature that shows a full transcript of the course video with timestamps.
 
