@@ -1,7 +1,7 @@
 # Creating links and adding work items and tags in azure boards
 
 
-**To create a link in Azure Boards, follow these steps:**
+## To create a link in Azure Boards, follow these steps:
 
 * Open the work item you want to create a link from.
     
@@ -15,10 +15,10 @@
     
 *  Click OK to save the link.
 
-----------
+
 
     
-**To add work items in Azure boards, follow these steps:**
+##  To add work items in Azure boards, follow these steps:
 
 A step-by-step process to add work items in Azure Boards:
 
@@ -41,9 +41,9 @@ A step-by-step process to add work items in Azure Boards:
 
 By following these steps, you can easily create work items in Azure boards
 
-----------
 
-**To add tags in Azure boards, follow these steps:**
+
+## To add tags in Azure boards, follow these steps:
 
 *  Open the work item that you want to add tags to.
     
