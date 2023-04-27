@@ -35,7 +35,8 @@ By using this format, you can keep track of the specific instructions for each s
 
 * Open the Image Insert Instructions tracker sheet and navigate to the Image Insert Instructions subsheet.
 
-*  Review the instructions for the first line, which includes the image name, slide ID, G-block ID, and modified image ID.
+*  Review the instructions for the first line, which includes the image name, slide ID, G-block ID, and modified image ID.![image](https://user-images.githubusercontent.com/131442290/234812914-18ec41bc-4ceb-45a7-84ca-cb9121baf937.png)
+
 
 *  Open the Images tracker sheet and locate the image with the corresponding modified image ID.
 
