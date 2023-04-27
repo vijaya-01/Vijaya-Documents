@@ -1,54 +1,60 @@
 # Transcript Extraction Training Document
 
-TO DO **TRANSCRIPT EXTRACTION** we have 3 methods :
+**TRANSCRIPT EXTRACTION** can be done in 3 methods :
 
-1. Transcript extraction in Pluralsight.com
-    
-2. Direct transcript download option in cloud guru
+* Pluralsight.com has a transcript extraction feature that shows a full transcript of the course video with timestamps.
 
-3. without direct transcript download option in cloud guru
+* Cloud Guru has a direct transcript download option that allows you to download the transcript as a PDF file.
+
+* If Cloud Guru doesn't have a direct transcript download option, you can still take notes, review subtitles, use the search function, utilize course discussion forums, or consider using a third-party transcription service.
 
 **TRANSCRIPT IN** [**PLURALSIGHT.COM**](http://pluralsight.com/ "http://PLURALSIGHT.COM") **:**
 
-STEP 1: We have to copy the required video link which is available in source vid url column to transcript and open in the mobaxterm .
+* Copy the video link from the source vid URL column and open it in MobaXterm.
 
-STEP 2: Left side of the video we can see the notes section click on that.
+* On the left side of the video, click on the notes section.
 
-STEP 3: Then we have to click on the title .
+* Click on the title to open the transcript.
 
-STEP 4: If you scroll down there we can see the transcript option click on that .
+* Scroll down and click on the transcript option.
 
-STEP 5: Search for required video title to transcript and copy the matter .
+* Find the required video title and copy the transcript content.
 
-STEP 6: Paste the matter in **OFFLINE MS WORD** in blank word document to format the sentences
-and then give right click , we will get the text option below the **Paste Options:** select text option .
+* Paste the transcript content into an offline Microsoft Word document to format the sentences.
 
-Step 7: By selecting text option the words will form into sentence with full stops.
+* Right-click and select "text" option to ensure sentences end with full stops.
 
-STEP 8: we have to give new line to every sentence by clicking enter after every full stop and copy the whole matter.
+* Insert a new line after every full stop to create a line break between sentences.
 
-STEP 9: paste the matter in **OFFLINE MS EXCEL** sheet so that the every sentence will insert in the required cells and can avoid unnecessary gaps between the cells.after that copy the matter and paste in the original transcript column of recording instruction sheet in the required component tracker .
+* Copy the formatted transcript content into an offline Microsoft Excel sheet.
 
-**DIRECT TRANSCRIPT DOWNLOAD OPTION IN 
-    CLOUD GURU:**
+* Paste the transcript content into the original transcript column of the recording instruction sheet in the required component tracker
 
-STEP 1: We have to copy the required video link which is available in source video url column to transcript and open in the mobaxterm .
 
-STEP 2: Left side we will get title bar scroll down then we can find the transcript available option .
+**How to Download a Transcript from Cloud Guru: A Step-by-Step Guide":**
 
-STEP 3: Click on that option then the document will downloaded .
+* SCopy the video link from the source video URL column and open it in MobaXterm.
 
-STEP 4: Open that document copy the matter and paste it directly in the original transcript column of recording instruction sheet in the required component tracker .
+* On the left side, scroll down to the title bar and click on the transcript available option.
 
-**WITHOUT DIRECT TRANSCRIPT DOWNLOAD
-    OPTION IN CLOUD GURU:**
+* The transcript document will be downloaded.
 
-STEP 1: Download the required video from vimeo url column 
+* Open the document, copy the transcript content, and paste it directly into the original transcript column of the recording instruction sheet in the required component tracker.
+ 
+Following these steps will enable you to quickly and easily extract transcripts from online courses and transfer the content into your project or assignment without any formatting issues.
 
-STEP 2: Open the **ONLINE MS WORD** in chrome and open the blank document so that dictate option will enable it is not found in OFFLINE MS WORD .
+**How to Extract a Transcript from Cloud Guru Without a Direct Download Option: A Step-by-Step Guide":**
 
-STEP 3: There we can find the dictate option which is in mike symbol click on that .
+* Download the required video from the Vimeo URL column.
 
-STEP 4: Then click on transcribe option and upload the required video .
+* Open an online Microsoft Word document in Chrome to enable the dictate option, which is not available in the offline version.
 
-STEP 5: After uploading select the document and choose the option JUST TEXT then the document will open copy and paste the matter in the original transcript column of recording instruction sheet in the required component tracker .
+* Click on the dictate option, which is represented by a microphone symbol.
+
+* Click on the transcribe option and upload the required video.
+
+* After uploading, select the document and choose the "just text" option.
+
+* Copy and paste the transcript content into the original transcript column of the recording instruction sheet in the required component tracker.
+
+By following these steps, you can easily extract transcripts from Cloud Guru videos that don't have a direct download option, using Microsoft Word's dictate and transcribe features to save time and effort.
