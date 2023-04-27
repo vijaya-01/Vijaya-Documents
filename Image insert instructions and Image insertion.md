@@ -1,53 +1,49 @@
 # Image insert instructions and Image insertion
 
+
+### Image insert instructions
+
 We have to use the generic template for image insert instructions here is the genetic template 
 https://onedrive.live.com/edit.aspx?cid=1d5fee4885b5afbd&page=view&resid=1D5FEE4885B5AFBD!989&parId=1D5FEE4885B5AFBD!756&app=PowerPoint - Connect your OneDrive account 
 Image Insert Instructions:
 
-### To insert images into the animation PowerPoint, follow these steps:
+* For marking the G-blocks in the PowerPoint presentation:
 
-1.  Download the required files:
-    -   Image insert instructions tracker sheet.
-    -   Images tracker sheet
-    -   Animation PPT.     
+*  Create rectangular shapes over the areas where you want to add images or text.
 
-2.  Open the Image Insert Instructions Tracker Sheet, and go to the "Image Insert Instructions" subsheet.
- 
-here is the generic template for tracker sheet 
-https://docs.google.com/spreadsheets/d/1nfPKgJFbR31RLrVjoaoVGNQ8i7mRgN8lc-srCtVr7hQ/edit#gid=1613043066
-RESTRICTED CONTENT
- 
-for example one of the tracker sheet(prani002) we can refer this tracker sheet for better understand 
-https://docs.google.com/spreadsheets/d/1ErTrTYA2g-HhN6s1PCu8J5xjOIAGPIBZ-tFGQyTBhm0/edit#gid=1613043066
-RESTRICTED CONTENT
-  
-    
-3.  Look at the first line and read the instructions carefully. For example:
-    
-    -   "From PPT: 02-mrkScrSht-pr21sp03-13"
-    -   "Slide ID: G4"
-    -   "Operation: Insert Image"
-    -   "Object: pr21sp02-13-M2-03"
-    -   "To Animation Slide ID: A1"
-    -   "Location: M2-2C"
+*  Label each G-block with a unique identifier (e.g., A1, A2) for each slide.
 
-![image](https://user-images.githubusercontent.com/131442290/233628841-d46d97cb-6620-4923-899a-01eb7320afbb.png)
+*  For creating the image-insertion instructions in the Google Sheet tracker:
 
-   
-4.  Check the "Images" tracker sheet and find the image with the modified image ID mentioned in the "Object" section of the instructions.
-    
-5.  Download the image and save it to your computer.
-    
-6.  Open the Animation PPT and go to the slide mentioned in the "To Animation Slide ID" section of the instructions.
-    
-7.  Locate the G-block mentioned in the "Location" section of the instructions.
-    
-8.  Insert the image into the G-block as per the instructions given in the "Operation" section.
-    
-9.  Repeat the same process for all the instructions mentioned in the tracker sheet.
+*  Create a separate subsheet for image-insertion instructions in the Google Sheet tracker for each project.
 
-image insert instructions training video : https://vimeo.com/582847807
-    
+*  For each slide, provide the following information:
 
-Note: The tracker sheet has a separate subsheet for each project, and the instructions for each project are listed in the respective subsheet. Make sure you are working on the correct project subsheet.
-![](blob:https://ncodeit.atlassian.net/c6726aed-ea9c-4c8d-867b-7556444f00d8#media-blob-url=true&id=5d26d9eb-0632-439f-b548-75e4b91c3fa7&collection=contentId-915865604&contextId=915865604&height=31&width=911&alt=)
+*  From PPT: Indicate the slide number of the PowerPoint presentation where the G-blocks are located.
+
+*  Slide ID: Indicate the unique identifier (e.g., A1, A2) of the slide where the G-blocks are located.
+
+*  Operation: Indicate whether you need to copy text or insert an image.
+
+*  Object: If you need to insert an image, indicate the name or identifier of the image you want to insert.
+
+*  To Animation Slide ID: Indicate the unique identifier (e.g., A1, A2) of the slide where you want to add the text or image.
+
+By using this format, you can keep track of the specific instructions for each slide and ensure that all images and text are added correctly to the PowerPoint presentation.
+
+### Image insertion
+
+* Open the Image Insert Instructions tracker sheet and navigate to the Image Insert Instructions subsheet.
+
+*  Review the instructions for the first line, which includes the image name, slide ID, G-block ID, and modified image ID.
+
+*  Open the Images tracker sheet and locate the image with the corresponding modified image ID.
+
+*  Download the image from the Images tracker sheet.
+
+*  Open the animation PPT and navigate to the slide with the corresponding slide ID.
+
+*  Locate the G-block with the corresponding G-block ID and insert the downloaded image into the G-block.
+
+*  Repeat steps 2-6 for each line of instructions in the Image Insert Instructions subsheet.
+
