@@ -1,4 +1,4 @@
-#  general stuff about content-delivery
+#  General stuff about content-delivery
 
 -   Coordinators will update the sprint status in a Google Sheets file called "daily-sprint-progress-updates-v1" https://docs.google.com/spreadsheets/d/1nsmzZrNEqnyOIS6Vs1l6y54UjaV3h9ag56Gw-ndzpMc/edit?pli=1#gid=1066426619 on a daily basis.
 -   After updating the file, coordinators will post a Gyazo screenshot of the update to the Slack channel.
