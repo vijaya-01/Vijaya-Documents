@@ -1,7 +1,7 @@
-## # Taking keywords from the video
+# Taking keywords from the video
 
 
-**Here are some steps you can follow to take keywords from a video:**
+## Here are some steps you can follow to take keywords from a video:**
 
 *  Review the PPT slides and take note of the most important points
     
