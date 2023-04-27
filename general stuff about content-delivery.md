@@ -12,7 +12,9 @@
   7.  Component IDs
   8.  Status of checks
   9.  Details of metrics
-  10.  Here is a sample checklist format: [https://gyazo.com/daa3c22571f83453e1d4fa326f0e2de8](https://gyazo.com/daa3c22571f83453e1d4fa326f0e2de8)
+  10.  Here is a sample checklist format:
+      ![image](https://user-images.githubusercontent.com/131442290/234830545-cbe3dfdb-60c7-4b34-8871-d3b72102146e.png)
+
 
 -   Everyday at 1:30 PM, there will be a handshake call involving all team members from both sides.
 -   During the call, the outgoing coordinator will hand over the work to the incoming coordinator.
