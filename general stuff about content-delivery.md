@@ -3,16 +3,16 @@
 -   Coordinators will update the sprint status in a Google Sheets file called "daily-sprint-progress-updates-v1" https://docs.google.com/spreadsheets/d/1nsmzZrNEqnyOIS6Vs1l6y54UjaV3h9ag56Gw-ndzpMc/edit?pli=1#gid=1066426619 on a daily basis.
 -   After updating the file, coordinators will post a Gyazo screenshot of the update to the Slack channel.
 -   When a resource finishes an activity, they will post a self-verified checklist.
-  1. ===
-  2.   @Nikitha Singh,
-  3.  please ensure all members post in the required checklist format as we are standardizing it.
-  4.  The checklist format has been standardized and should include five important components:
-  5.  Checks
-  6.  Metrics
-  7.  Component IDs
-  8.  Status of checks
-  9.  Details of metrics
-  10.  Here is a sample checklist format:
+    1. ===
+    2.   @Nikitha Singh,
+    3.  please ensure all members post in the required checklist format as we are standardizing it.
+    4.  The checklist format has been standardized and should include five important components:
+    5.  Checks
+    6.  Metrics
+    7.  Component IDs
+    8.  Status of checks
+    9.  Details of metrics
+    10.  Here is a sample checklist format:
       ![image](https://user-images.githubusercontent.com/131442290/234830545-cbe3dfdb-60c7-4b34-8871-d3b72102146e.png)
 
 
