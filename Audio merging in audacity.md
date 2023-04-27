@@ -1,7 +1,7 @@
-##  Audio merging in audacity
+# Audio merging in audacity
 
 
-**To merge audio files in Audacity, you need to follow these steps:**
+## To merge audio files in Audacity, you need to follow these steps:
 
 *  Launch Audacity on your computer
     
