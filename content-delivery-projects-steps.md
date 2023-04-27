@@ -1,4 +1,4 @@
-# content-delivery-projects-steps
+# Content-delivery-projects-steps
 
 Step 1: Get the Project ID Visit our team's centralized hub at rebrand.ly/teamlinks and locate the all-component-trackers file. This file contains the Project ID needed for this project.
 
