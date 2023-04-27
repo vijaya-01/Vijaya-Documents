@@ -1,4 +1,4 @@
-# Creating a Video with Kroki and ChatGPT and creating PPT Slides Automatically with ChatGPT
+# Creating a Video with Kroki and ChatGPT and Creating PPT Slides Automatically with ChatGPT
 
 ## The process of creating a video on a particular topic with Chat GPT and Kroki.io
 
