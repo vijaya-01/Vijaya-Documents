@@ -1,7 +1,7 @@
-## # Creating templates and designs in canva for marketing
+ # Creating templates and designs in canva for marketing
 
 
-**# Creating templates and designs in Canva for marketing involves the following steps:**
+## Creating templates and designs in Canva for marketing involves the following steps:**
 
 
 *  **login to Canva:**  Go to the Canva website ([www.canva.com](http://www.canva.com/)).
