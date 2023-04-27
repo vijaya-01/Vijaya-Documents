@@ -1,6 +1,6 @@
-## Creating a quizzes
+# Creating a quizzes
 
-### The steps to follow for creating a quizzes:
+## The steps to follow for creating a quizzes:
 
 
 * Sign up for a Quizizz account: The first step is to sign up for a Quizizz account. https://quizizz.com/ You can sign up using your Google or Microsoft account, or create a new account using your email address.
