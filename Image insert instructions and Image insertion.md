@@ -1,7 +1,10 @@
 # Image insert instructions and Image insertion
+
+We have to use the generic template for image insert instructions here is the genetic template 
+https://onedrive.live.com/edit.aspx?cid=1d5fee4885b5afbd&page=view&resid=1D5FEE4885B5AFBD!989&parId=1D5FEE4885B5AFBD!756&app=PowerPoint - Connect your OneDrive account 
 Image Insert Instructions:
 
-To insert images into the animation PowerPoint, follow these steps:
+### To insert images into the animation PowerPoint, follow these steps:
 
 1.  Download the required files:
     -   Image insert instructions tracker sheet.
